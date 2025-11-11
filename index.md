@@ -58,7 +58,7 @@ Each project has its own dedicated section containing:
 
 For project-specific support:
 
-- **The Speddish Cortex**: [support@speddishcortex.com](mailto:support@speddishcortex.com)
+- **The Speddish Cortex**: [info@nicholas-spadaro.it](mailto:info@nicholas-spadaro.it)
 - **General Inquiries**: [hello@docs.speddish.dev](mailto:hello@docs.speddish.dev)
 
 ---

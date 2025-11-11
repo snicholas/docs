@@ -93,7 +93,7 @@ The Speddish Cortex mobile application ("the App") is provided on an "as is" and
 
 If you have any questions about this disclaimer or need clarification, please contact us:
 
-- **Email**: legal@speddishcortex.com
+- **Email**: info@nicholas-spadaro.it
 - **App**: The Speddish Cortex mobile application
 
 ## Updates to This Disclaimer

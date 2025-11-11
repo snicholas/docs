@@ -48,8 +48,8 @@ This folder contains all legal documentation and policies for The Speddish Larde
 
 For legal inquiries regarding these documents:
 
-- **Email:** privacy@thespeddishlarder.com
-- **Legal:** legal@thespeddishlarder.com
+- **Email:** info@nicholas-spadaro.it
+- **Legal:** info@nicholas-spadaro.it
 
 ## Compliance
 

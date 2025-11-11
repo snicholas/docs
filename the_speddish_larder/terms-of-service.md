@@ -142,7 +142,7 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 
 If you have any questions about these Terms of Service, please contact us:
 
-- **Email**: legal@thespeddishlarder.com
+- **Email**: info@nicholas-spadaro.it
 - **App**: The Speddish Larder mobile application
 
 ## 15. Severability

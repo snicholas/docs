@@ -129,7 +129,7 @@ We may update this Cookie Policy from time to time to reflect changes in our use
 
 If you have any questions about this Cookie Policy or our use of cookies, please contact us:
 
-- **Email**: privacy@thespeddishlarder.com
+- **Email**: info@nicholas-spadaro.it
 - **App**: The Speddish Larder mobile application
 
 ## Effective Date

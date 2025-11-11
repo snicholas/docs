@@ -32,7 +32,7 @@ The Speddish Cortex is a comprehensive study application designed to enhance lea
 - [GitHub Repository](https://github.com/your-username/speddish-cortex)
 - [Google Play Store](https://play.google.com/store/apps/details?id=it.nicholas.spadaro.speddishcortex.mobile)
 - [Privacy Policy](privacy-policy.md)
-- [Contact Support](mailto:support@speddishcortex.com)
+- [Contact Support](mailto:info@nicholas-spadaro.it)
 
 ## 📄 License
 
