@@ -1,0 +1,97 @@
+# Site settings
+title: Documentation Hub
+description: Centralized documentation for all projects
+url: "https://yourusername.github.io" # Replace with your actual GitHub Pages URL
+baseurl: "" # Root directory
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+
+# Collections for different projects
+collections:
+  cortex:
+    output: true
+    permalink: /:collection/:name/
+    title: "The Speddish Cortex"
+    description: "Smart study application documentation"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - .gitignore
+  - */_config.yml
+
+# Include
+include:
+  - _pages
+
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# SEO and social
+logo: "/assets/images/logo.png"
+image: "/assets/images/default-og-image.png"
+social:
+  name: Documentation Hub
+  links:
+    - https://github.com/yourusername
+
+# Navigation structure
+navigation:
+  - title: Home
+    url: "/"
+  - title: Projects
+    url: "#projects"
+  - title: About
+    url: "#about"
+
+# Project navigation
+projects:
+  cortex:
+    title: "The Speddish Cortex"
+    description: "Smart study application"
+    url: "/cortex/"
+    icon: "fas fa-brain"
+    color: "#2563eb"
+
+# Table of Contents settings
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+
+# Defaults for front matter
+defaults:
+  - scope:
+      path: ""
+      type: "cortex"
+    values:
+      layout: "project"
+      project: "cortex"
+      author: "The Speddish Cortex Team"
+
+  - scope:
+      path: "cortex"
+    values:
+      layout: "project"
+      project: "cortex"
+      author: "The Speddish Cortex Team"

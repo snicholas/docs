@@ -1,0 +1,74 @@
+---
+layout: project
+title: "The Speddish Cortex"
+description: "Smart study application with flashcards, timers, and progress tracking"
+project: "cortex"
+last_modified: 2025-11-10
+---
+
+# The Speddish Cortex
+
+A comprehensive study application designed to enhance learning through smart features and intuitive design.
+
+## 📱 Features
+
+- **Smart Flashcards**: AI-powered flashcard creation and spaced repetition
+- **Study Timer**: Pomodoro technique integration with customizable settings
+- **Note Management**: Organize and sync your study notes across devices
+- **Progress Tracking**: Monitor your learning progress and achievements
+- **Calendar Integration**: Schedule study sessions and track deadlines
+
+## 🚀 Quick Start
+
+1. **Download**: Available on Google Play Store
+2. **Sign In**: Use your Google account for seamless authentication
+3. **Start Learning**: Create flashcards, set timers, and track progress
+
+## 📚 Documentation
+
+### Legal & Privacy
+- [Privacy Policy](privacy-policy.md) - How we collect, use, and protect your data
+- [Terms of Service](terms-of-service.md) - Terms and conditions for using the app
+- [Disclaimer](disclaimer.md) - Legal disclaimers and usage guidelines
+
+### Technical
+- [Setup Guide](setup-guide.md) - Development setup instructions
+- [API Documentation](api-docs.md) - Technical documentation for developers
+
+### User Resources
+- [User Manual](user-manual.md) - Complete user guide
+- [FAQ](faq.md) - Frequently asked questions
+
+## 🛠️ Technology Stack
+
+- **Frontend**: React Native with Expo
+- **Backend**: Firebase (Firestore, Authentication, Storage)
+- **Analytics**: Google Analytics for Firebase
+- **Ads**: Google AdMob
+- **Authentication**: Google Sign-In
+
+## 📱 Platform Support
+
+- **Android**: Android 5.0+ (API level 21+)
+- **iOS**: iOS 12.0+ (Coming soon)
+
+## 🔒 Privacy & Security
+
+- End-to-end encryption for sensitive data
+- GDPR and CCPA compliant
+- No tracking of personal study content
+- Secure OAuth 2.0 authentication
+
+## 📞 Support
+
+- **Email**: support@speddishcortex.com
+- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/speddish-cortex/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/speddish-cortex/discussions)
+
+## 📄 License
+
+This application is released under the MIT License. See [LICENSE](https://github.com/yourusername/speddish-cortex/blob/main/LICENSE) for details.
+
+---
+
+*Last updated: November 10, 2025*
