@@ -1,136 +1,199 @@
----
-layout: default
-title: Privacy Policy
-description: Privacy Policy for The Speddish Larder mobile application
-date: 2025-11-11
-last_modified: 2025-11-11
----
+# Privacy Policy for The Speddish Larder
 
-# Privacy Policy - The Speddish Larder
+**Last Updated**: December 7, 2025
 
-**Last Updated:** November 11, 2025
+## Introduction
 
-## 1. Introduction
+Welcome to The Speddish Larder ("we", "our", or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
-Welcome to The Speddish Larder. We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+## Information We Collect
 
-## 2. Information We Collect
+### Information You Provide
 
-### 2.1 Information You Provide
-- **Account Information**: When you sign in with Google, we collect your email address and basic profile information
-- **User-Generated Content**: Your recipes, shopping lists, pantry inventory, meal plans, and cooking preferences
-- **Images**: Photos or images you select from your device's gallery for recipe images or ingredient identification
+- **Account Information**: Email address when you sign in with Google
+- **Pantry Data**: Ingredients you add to your pantry
+- **Recipes**: Recipes you save or create
+- **Shopping Lists**: Items you add to your shopping lists
+- **Meal Plans**: Meals you plan
+- **Preferences**: Dietary preferences and settings you configure
 
-### 2.2 Automatically Collected Information
-- **Usage Data**: How you interact with the app, features used, recipe viewing patterns, and shopping habits
-- **Device Information**: Device type, operating system, and unique device identifiers
-- **Performance Data**: App performance, crash reports, and technical diagnostics
-- **Location Data**: Optional location information for personalized store recommendations (with explicit consent)
+### Automatically Collected Information
 
-### 2.3 Third-Party Services
-We use the following third-party services that may collect information:
-- **Firebase**: For data storage, authentication, and analytics
-- **Google Sign-In**: For user authentication
-- **AdMob**: For displaying advertisements and analytics
+- **Usage Data**: How you interact with the app (recipe generations, barcode scans)
+- **Device Information**: Device type, operating system, app version
+- **Analytics**: Anonymous usage statistics to improve the app
 
-## 3. How We Use Your Information
+### Third-Party Data
+
+- **Barcode Scanning**: Product information from Open Food Facts database
+- **Recipe Generation**: Ingredient data sent to Google Gemini AI for recipe creation
+
+## How We Use Your Information
 
 We use your information to:
-- Provide and maintain the app's core functionality (recipe management, shopping lists, pantry tracking)
-- Authenticate users and manage accounts
-- Store and sync your kitchen data across devices
-- Display relevant advertisements
-- Analyze app usage to improve user experience
-- Provide personalized recipe recommendations and meal planning suggestions
-- Generate shopping lists based on your recipes and pantry inventory
-- Provide customer support
 
-## 4. Data Storage and Security
+- Provide and maintain the app's functionality
+- Generate personalized recipes based on your pantry
+- Track your pantry inventory and shopping lists
+- Manage your subscription and billing (via RevenueCat)
+- Show relevant advertisements to free users (via Google AdMob)
+- Improve the app based on usage patterns
+- Communicate important updates about the app
 
-- **Data Storage**: Your personal data and kitchen-related content are stored securely on Firebase servers
-- **Encryption**: Data transmission is encrypted using industry-standard protocols
-- **Access Control**: Only authorized personnel have access to your personal information
-- **Data Retention**: We retain your data only as long as necessary to provide our services
+## Data Storage and Security
 
-## 5. Images and Photo Gallery Access
+- **Firebase**: We use Google Firebase for authentication and data storage
+- **Encryption**: All data transmitted between your device and our servers is encrypted
+- **Security**: We implement industry-standard security measures to protect your data
 
-- **Gallery Access**: The app can access your device's photo gallery to select images for recipes or ingredient identification
-- **No Camera Access**: The app does **NOT** access your device's camera and cannot take photos
-- **Image Usage**: Selected images are stored securely and used only within the app for your recipe collection
-- **Image Processing**: Images may be processed for optimization within the app
+## Third-Party Services
 
-## 6. Recipe and Food Data
+We use the following third-party services:
 
-- **Recipe Content**: User-created recipes, ingredients, and cooking instructions are stored privately
-- **Nutritional Information**: Basic nutritional data may be calculated from ingredient information
-- **Allergen Data**: We do not track or store detailed allergen information - users are responsible for managing their own dietary restrictions
-- **Food Preferences**: Your dietary preferences, restrictions, and favorite ingredients are stored for personalization
+### Essential Services
 
-## 7. Shopping Lists and Pantry Features
+- **Google Firebase**: Authentication and database (Google Privacy Policy)
+- **Google Sign-In**: Account authentication (Google Privacy Policy)
+- **Apple Sign-In**: Account authentication for iOS users (Apple Privacy Policy)
+- **RevenueCat**: Subscription management (RevenueCat Privacy Policy)
 
-- **Shopping List Data**: Your shopping lists, items, and purchase status are stored securely
-- **Collaboration Features**: When you share shopping lists, collaborators can view and modify the shared content
-- **Pantry Inventory**: Your pantry items, expiration dates, and inventory levels are stored for personal use
-- **Purchase History**: The app may track basic purchase patterns to improve shopping suggestions
+### Optional Services (Free Users Only)
 
-## 8. Third-Party Services
+- **Google AdMob**: Advertising (Google Ads Privacy Policy)
+  - Shows personalized ads based on your consent
+  - You can manage ad preferences in Settings
 
-### 8.1 Firebase
-- Used for data storage, user authentication, and analytics
-- Firebase's privacy policy: https://firebase.google.com/terms/privacy
+### Data Services
 
-### 8.2 Google Sign-In
-- Used for user authentication
-- Google's privacy policy: https://policies.google.com/privacy
+- **Open Food Facts**: Barcode product information (public database)
+- **Google Gemini AI**: Recipe generation (Google AI Privacy Policy)
 
-### 8.3 AdMob (Google Mobile Ads)
-- Used for displaying advertisements
-- AdMob's privacy policy: https://policies.google.com/privacy
-- AdMob may collect data for ad personalization and analytics
+## Advertising (Free Users)
 
-## 9. Your Rights
+If you use the free version of the app:
 
-You have the right to:
-- Access your personal information
-- Correct inaccurate information
-- Request deletion of your account and data
-- Export your data (recipes, shopping lists, pantry inventory)
-- Opt-out of personalized advertising
-- Control sharing permissions for your shopping lists and recipes
+- We show advertisements via Google AdMob
+- **EU/EEA Users**: We will ask for your consent before showing personalized ads
+- **Personalized Ads**: Based on your interests (with consent)
+- **Non-Personalized Ads**: Generic ads (without consent or outside EU)
+- **Premium Users**: See no ads regardless of consent
 
-## 10. Children's Privacy
+You can manage your ad preferences at any time in Settings → Privacy & Ads.
 
-Our app is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will delete it immediately.
+## Your Rights (GDPR - EU/EEA Users)
 
-## 11. Data Sharing
+If you are located in the European Union or European Economic Area, you have the following rights:
 
-We do not sell, trade, or otherwise transfer your personal information to third parties, except:
-- With your explicit consent (such as sharing shopping lists with collaborators)
-- To service providers who assist us in operating our app
-- When required by law
-- To protect our rights, privacy, safety, or property
+- **Access**: Request a copy of your personal data
+- **Rectification**: Request correction of inaccurate data
+- **Erasure**: Request deletion of your data
+- **Portability**: Request your data in a portable format
+- **Restriction**: Request limitation of data processing
+- **Objection**: Object to data processing
+- **Withdraw Consent**: Withdraw consent for ad personalization at any time
 
-## 12. International Data Transfers
+To exercise these rights:
+1. Open Settings in the app
+2. Use "Export Data" (coming soon) or "Delete Account"
+3. Or contact us at: info@nicholas-spadaro.it
 
-Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data.
+## Data Retention
 
-## 13. Changes to This Privacy Policy
+- **Active Accounts**: We retain your data as long as your account is active
+- **Inactive Accounts**: Data is retained for 90 days after last use
+- **Deleted Accounts**: All data permanently deleted within 30 days
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date.
+## Children's Privacy
 
-## 14. Contact Information
+The Speddish Larder is not intended for children under 13. We do not knowingly collect data from children. If you believe we have collected data from a child, please contact us immediately.
 
-If you have any questions about this Privacy Policy, please contact us:
+## International Data Transfers
 
-- **Email**: info@nicholas-spadaro.it
-- **App**: The Speddish Larder mobile application
+Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with GDPR and other applicable laws.
 
-## 15. Advertising and Analytics
+## Changes to This Policy
 
-- The app uses AdMob for displaying advertisements
-- We may use analytics to understand user behavior and improve the app
-- You can opt-out of personalized ads through your device settings
+We may update this privacy policy from time to time. We will notify you of any material changes by:
+- Posting the new policy in the app
+- Updating the "Last Updated" date
+- Sending an email notification (for significant changes)
+
+## Your Choices
+
+### Managing Your Data
+
+- **Subscription Status**: Settings → Account
+- **Ad Preferences**: Settings → Privacy & Ads
+- **Export Data**: Settings → Data Management (coming soon)
+- **Delete Account**: Settings → Dangerous Actions → Delete Account
+
+### Managing Consent (EU/EEA)
+
+- **Review Consent**: Settings → Privacy & Ads → Review Consent Choices
+- **Privacy Options**: Settings → Privacy & Ads → Privacy Options
+- **Withdraw Consent**: Change settings at any time
+
+## Premium Subscription
+
+- **No Ads**: Premium subscribers see no advertisements
+- **Data Collection**: Same data collection as free users (for app functionality)
+- **Billing**: Processed securely via Apple App Store and RevenueCat
+- **Cancellation**: Manage subscription via App Store Settings
+
+## Contact Us
+
+If you have questions about this privacy policy or your data:
+
+**Email**: info@nicholas-spadaro.it
+
+**Response Time**: We aim to respond within 48 hours
+
+## Legal Basis for Processing (GDPR)
+
+We process your personal data based on:
+
+- **Contract**: To provide the app services you requested
+- **Consent**: For personalized advertising (EU/EEA users)
+- **Legitimate Interest**: To improve the app and prevent fraud
+- **Legal Obligation**: To comply with applicable laws
+
+## Data Protection Officer
+
+For GDPR-related inquiries:
+
+**Email**: info@nicholas-spadaro.it
+
+## Supervisory Authority
+
+If you are in the EU/EEA and believe we have not addressed your concerns, you have the right to lodge a complaint with your local data protection authority.
 
 ---
 
-**Note**: This privacy policy covers The Speddish Larder mobile application for Android and iOS devices.
+## Summary (Plain English)
+
+**What we collect**:
+- Your email (if you sign in)
+- Pantry items, recipes, shopping lists you create
+- How you use the app
+
+**Why we collect it**:
+- To make the app work
+- To generate recipes for you
+- To show ads (free users only, with consent in EU)
+- To improve the app
+
+**Your control**:
+- Delete your account anytime
+- Export your data (coming soon)
+- Manage ad consent (EU/EEA)
+- Go premium to remove ads
+
+**We never**:
+- Sell your data
+- Share your data except with essential services
+- Show ads to premium users
+- Collect data from children
+
+---
+
+*This privacy policy is effective as of December 7, 2025 and was last updated on December 7, 2025.*
