@@ -1,6 +1,6 @@
 # Privacy Policy for The Speddish Orbis
 
-**Last updated: December 22, 2025**
+**Last updated: December 26, 2025**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -149,6 +149,30 @@ We may use Service Providers to show advertisements to You to help support and m
 
 We may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of receiving any, or all, of these communications from Us by following the unsubscribe link or instructions provided in any email We send or by contacting Us.
 
+## Account Deletion
+
+We provide you with the ability to delete your account and all associated data directly within the app. To delete your account:
+
+1. Open the app and navigate to **Settings**
+2. Scroll to the **Account** section
+3. Tap on **"Delete Account"** (red button with trash icon)
+4. Confirm the deletion in the warning dialog
+5. Your account and all associated data will be permanently deleted
+
+**What gets deleted:**
+- Your Firebase Authentication account
+- User profile and settings
+- All game progress and scores
+- Museum exhibits and idle game progress
+- Exploration progress (fog of world data, active expeditions, discovered sectors)
+- Leaderboard entries
+- Score history
+- Any other data stored in our database
+
+**Note:** This action is permanent and cannot be undone. For security reasons, if you haven't signed in recently (within the last 5 minutes), you may be asked to sign out and sign back in before you can delete your account.
+
+If you are unable to delete your account through the app, you may contact us at info@nicholas-spadaro.it for assistance.
+
 ## GDPR Privacy
 
 ### Legal Basis for Processing Personal Data under GDPR
@@ -207,4 +231,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: info@nicholas-spadaro.it
+*   By email: info@nicholas-spadaro.it 
+
+---
+**Disclaimer:** This is a template privacy policy. It is highly recommended to consult with a legal professional to ensure full compliance with all applicable laws and regulations specific to your business and region.
